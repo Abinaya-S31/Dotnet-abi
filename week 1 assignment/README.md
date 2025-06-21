@@ -12,9 +12,8 @@ Assignments
 4	Financial Forecasting (Tool	Lists, Basic Math & Logic)
 
 Technologies Used
-
--> C# (.NET Core Console)
--> Visual Studio Code
--> PowerShell
+ * C# (.NET Core Console)
+* Visual Studio Code
+* PowerShell
 
 
